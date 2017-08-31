@@ -1,0 +1,8 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-02-15 16:16:50 #1 store] 
+Database 'E:\PIII\MVCCW\target\Guestbook\WEB-INF\db\guests.odb' is opened by 11024@Mars
+
+[2017-02-15 16:38:11 #2 store] 
+Database 'E:\PIII\MVCCW\target\Guestbook\WEB-INF\db\guests.odb' is closed by 11024@Mars
+

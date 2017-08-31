@@ -1,0 +1,1 @@
+Notes: This should include any notes on the progress of the development. Including attendance sheets, plans, and general notes arising from workshop sessions. Note these should be text files, binary files don't work well with GIT.

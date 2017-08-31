@@ -1,0 +1,1 @@
+Design: This is for your design documents, especially CRC Documents. Warning: Any files that are not text documents (binary documents) will not be versioned managed well by GIT. Therefore you should restrict the amount of these. A suggestion is to restrict binary files to a UML Class diagram.

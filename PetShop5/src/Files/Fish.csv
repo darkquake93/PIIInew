@@ -1,0 +1,321 @@
+Shop,Type,price,dateAcquired,notes,Latin Name,food requirements
+Anything Except Badgers,Assorted Swordtail,17.86,23/10/2010,none,(Xiphophorus helleri),standard
+Aquatic Acrobatics,Blue Johanni Cichlid,8.59,26/04/2010,none,(Melanochromis cyaneorhabdos),standard
+Gateshead Pets,Golden White Cloud,24.74,26/05/2010,none,(Tanichthys albonubes),standard
+Potters Pets,Rio-Negro Pleco,14.13,15/07/2010,none,(Peckoltia sp. platyrhyncha),standard
+Meltham Pets,Sparkling Gourami,24.31,26/02/2010,none,(Trichopsis pumilus),standard
+Aquatic Acrobatics,Cherry Barb,16.01,04/07/2010,none,(Puntius titteya),standard
+Gateshead Pets,Crown Tail Betta,7.41,14/12/2010,none,(Betta splendens),standard
+Solly's Pet Store,Pearl Gourami,20.86,07/04/2010,none,(Trichogaster leeri),standard
+Daffyd's Pet Shop,Cherry Barb,13.99,14/04/2010,none,(Puntius titteya),standard
+Meltham Pets,Peppered Cory Cat,8.14,10/03/2010,none,(Corydoras paleatus),standard
+Aquatic Acrobatics,Pearl Gourami,10.55,24/07/2010,none,(Trichogaster leeri),standard
+Meltham Pets,Assorted Swordtail,9.76,20/08/2010,none,(Xiphophorus helleri),standard
+Pets on the Tyne,Tiger Barb,20.71,06/10/2010,none,(Puntius tetrazona),standard
+Parkside Aquarium,Blue Paradise,20.31,25/05/2010,none,(Macropodus opercularis),standard
+Pets on the Tyne,Electric Yellow Cichlid,11.75,09/02/2010,none,(Labidochromis caeruleus),standard
+Harris' Pets and More,Assorted Platy,6.59,02/12/2010,none,(Xiphophorus maculatus),standard
+Gateshead Pets,Albino Aeneus Cory Cat,7.12,20/08/2010,none,(Corydoras aeneus),standard
+Anything Except Badgers,Black Moor Goldfish,7.96,30/10/2010,none,(Carassius auratus),standard
+The Menagerie,Assorted Platy,19.14,31/05/2010,none,(Xiphophorus maculatus),standard
+The Menagerie,Red Cap Oranda Goldfish,15.51,18/08/2010,none,(Carassius auratus),standard
+Byker Pets Shop,Tiger Barb,23.96,16/04/2010,none,(Puntius tetrazona),standard
+Daffyd's Pet Shop,Sparkling Gourami,9.07,22/08/2010,none,(Trichopsis pumilus),standard
+Daffyd's Pet Shop,Assorted Veil Angel,21.28,29/12/2010,none,(Pterophyllum scalare),standard
+Paddington Aquatics,Starry Night Pleco,20.33,04/11/2010,none,(Ancistris sp).),standard
+Morris Pets and Supplies,Otocinclus Catfish,5.24,02/07/2010,none,(Otocinclus sp.),carnivorous
+Byker Pets Shop,Rio-Negro Pleco,11.71,15/09/2010,none,(Peckoltia sp. platyrhyncha),standard
+Doe Bank Fish and Aquarium Supplies,Turquoise Danio,15.02,08/05/2010,none,(Brachydanio kerri),standard
+Galley Pets,Tiger Barb,20.87,25/02/2010,none,(Puntius tetrazona),standard
+The Briar Patch Pet Store,Tiger Pleco,19.75,08/12/2010,none,(Peckoltia vermiculata),standard
+Gateshead Pets,Pearl Gourami,19.21,10/04/2010,none,(Trichogaster leeri),standard
+Sannox Pets,Golden White Cloud,14.93,07/02/2010,none,(Tanichthys albonubes),standard
+Galley Pets,Green Tiger Barb,7.77,25/08/2010,none,(Puntius tetrazona),standard
+Meadow Aquatics,Assorted Apistogramma,10.64,18/04/2010,none,(Apistogramma sp.),standard
+Sannox Pets,Turquoise Danio,8.11,29/01/2010,none,(Brachydanio kerri),standard
+Solly's Pet Store,Otocinclus Catfish,5.09,31/07/2010,none,(Otocinclus sp.),standard
+Obsborne Road Pet Store,Assorted Mickey Mouse Platys,24.55,24/12/2010,marketing deal with free toy,(Xiphophorus maculatus),standard
+Paddington Aquatics,Tiger Barb,10.71,31/01/2010,none,(Puntius tetrazona),standard
+Anything Except Badgers,Crown Tail Betta,19.44,18/01/2010,none,(Betta splendens),standard
+Potters Pets,Green Cobra Guppy,14.31,07/05/2010,none,(Poecilia reticulata),standard
+Daffyd's Pet Shop,Starry Night Pleco,15.63,23/11/2010,none,(Ancistris sp).),standard
+Aquatic Acrobatics,Assorted Apistogramma,15.17,07/05/2010,none,(Apistogramma sp.),standard
+Clevedon Pets,Assorted Swordtail,14.72,29/07/2010,none,(Xiphophorus helleri),standard
+Jill's Pet Store,Green Cobra Guppy,19.41,03/11/2010,none,(Poecilia reticulata),standard
+Petsmart,Turquoise Danio,14.77,08/03/2010,none,(Brachydanio kerri),standard
+Jill's Pet Store,Starry Night Pleco,12.16,15/12/2010,none,(Ancistris sp).),standard
+Morris Pets and Supplies,Long Fin White Cloud,13.00,12/10/2010,none,(Tanichthys albonubes),standard
+Harris' Pets and More,Boesemani Rainbow,7.50,01/11/2010,none,(Melanotaenia boesemani),standard
+The Briar Patch Pet Store,Cherry Barb,11.54,29/10/2010,none,(Puntius titteya),standard
+The Menagerie,Siamese Fighting Fish,16.92,16/08/2010,not actually very aggressive!,(Betta splendens),standard
+The Menagerie,Tiger Barb,16.91,30/08/2010,none,(Puntius tetrazona),standard
+Anything Except Badgers,Golden White Cloud,18.22,01/06/2010,none,(Tanichthys albonubes),standard
+Pets on the Tyne,Albino Peacock Cichlid,10.52,20/12/2010,none,(Aulonocara sp.),standard
+Galley Pets,Blue Johanni Cichlid,12.24,28/07/2010,none,(Melanochromis cyaneorhabdos),standard
+Solly's Pet Store,Electric Yellow Cichlid,12.56,04/06/2010,none,(Labidochromis caeruleus),standard
+Solly's Pet Store,Lemon Cobra Guppy,12.52,25/08/2010,none,(Poecilia reticulata),standard
+Parkside Aquarium,Assorted Swordtail,11.65,30/03/2010,none,(Xiphophorus helleri),standard
+Meadow Aquatics,Long Fin White Cloud,8.12,04/06/2010,none,(Tanichthys albonubes),standard
+The Briar Patch Pet Store,Green Cobra Guppy,18.84,22/07/2010,none,(Poecilia reticulata),standard
+Meadow Aquatics,Tiger Pleco,11.21,13/09/2010,none,(Peckoltia vermiculata),standard
+Jill's Pet Store,Lemon Cobra Guppy,12.08,02/04/2010,none,(Poecilia reticulata),standard
+Gateshead Pets,Black Moor Goldfish,5.80,12/12/2010,none,(Carassius auratus),standard
+Aquatic Acrobatics,Green Tiger Barb,17.36,05/09/2010,none,(Puntius tetrazona),standard
+Jill's Pet Store,Boesemani Rainbow,7.12,19/02/2010,none,(Melanotaenia boesemani),standard
+Preston Pets,Crown Tail Betta,16.99,01/03/2010,none,(Betta splendens),standard
+Harris' Pets and More,Turquoise Danio,6.29,14/03/2010,other colours available,(Brachydanio kerri),standard
+Harris' Pets and More,Pearl Gourami,14.26,06/11/2010,none,(Trichogaster leeri),standard
+Parkside Aquarium,Golden White Cloud,19.92,21/05/2010,none,(Tanichthys albonubes),standard
+Morris Pets and Supplies,Kenyi Cichlid,22.61,06/10/2010,none,(Metriaclima lombardoi),standard
+The Menagerie,Turquoise Danio,17.77,08/03/2010,none,(Brachydanio kerri),standard
+Anything Except Badgers,Assorted Mickey Mouse Platys,17.31,05/05/2010,none,(Xiphophorus maculatus),standard
+Pets on the Tyne,Albino Aeneus Cory Cat,19.54,27/12/2010,none,(Corydoras aeneus),standard
+Aquatic Acrobatics,Red Cap Oranda Goldfish,23.28,04/11/2010,none,(Carassius auratus),standard
+Obsborne Road Pet Store,Cherry Barb,22.60,23/05/2010,none,(Puntius titteya),standard
+Petsmart,Electric Blue Cichlid,23.22,31/07/2010,none,(Sciaenochromis fryeri),standard
+Petsmart,Emerald Green Cory Cat,24.26,24/01/2010,none,(Brochis splendens),standard
+Preston Pets,Kenyi Cichlid,11.98,13/08/2010,none,(Metriaclima lombardoi),standard
+The Briar Patch Pet Store,Starry Night Pleco,16.25,23/09/2010,none,(Ancistris sp).),standard
+Gateshead Pets,Otocinclus Catfish,10.92,20/11/2010,none,(Otocinclus sp.),standard
+Petsmart,Peppered Cory Cat,7.79,07/10/2010,none,(Corydoras paleatus),standard
+Doe Bank Fish and Aquarium Supplies,Albino Peacock Cichlid,14.55,20/04/2010,none,(Aulonocara sp.),standard
+Morris Pets and Supplies,Green Cobra Guppy,20.12,03/09/2010,none,(Poecilia reticulata),standard
+The Briar Patch Pet Store,Long Fin White Cloud,9.33,30/05/2010,none,(Tanichthys albonubes),standard
+Clevedon Pets,Sparkling Gourami,21.37,21/10/2010,none,(Trichopsis pumilus),standard
+Preston Pets,Emerald Green Cory Cat,7.26,11/04/2010,none,(Brochis splendens),standard
+The Briar Patch Pet Store,Blue Paradise,11.15,07/12/2010,none,(Macropodus opercularis),standard
+Sannox Pets,Electric Yellow Cichlid,9.07,14/04/2010,none,(Labidochromis caeruleus),standard
+Pets on the Tyne,Otocinclus Catfish,8.29,19/03/2010,none,(Otocinclus sp.),standard
+Byker Pets Shop,Green Cobra Guppy,21.88,30/04/2010,none,(Poecilia reticulata),standard
+Pets on the Tyne,Turquoise Danio,19.08,03/02/2010,none,(Brachydanio kerri),standard
+Morris Pets and Supplies,Pearl Gourami,19.80,17/04/2010,none,(Trichogaster leeri),standard
+Clevedon Pets,Cherry Barb,11.39,30/05/2010,none,(Puntius titteya),standard
+Anything Except Badgers,Green Tiger Barb,13.89,10/01/2010,none,(Puntius tetrazona),standard
+Jill's Pet Store,Rio-Negro Pleco,8.51,06/03/2010,none,(Peckoltia sp. platyrhyncha),standard
+Parkside Aquarium,Tiger Pleco,16.74,05/06/2010,none,(Peckoltia vermiculata),standard
+The Briar Patch Pet Store,Kenyi Cichlid,14.07,01/06/2010,none,(Metriaclima lombardoi),carnivorous
+Byker Pets Shop,Green Tiger Barb,22.69,16/08/2010,none,(Puntius tetrazona),standard
+Byker Pets Shop,Lemon Cobra Guppy,11.14,10/09/2010,none,(Poecilia reticulata),standard
+Potters Pets,Assorted Mickey Mouse Platys,9.21,20/12/2010,none,(Xiphophorus maculatus),standard
+Pets on the Tyne,Tiger Pleco,6.31,10/06/2010,none,(Peckoltia vermiculata),standard
+Parkside Aquarium,Green Tiger Barb,5.61,26/02/2010,none,(Puntius tetrazona),standard
+Gateshead Pets,Rio-Negro Pleco,21.52,22/11/2010,none,(Peckoltia sp. platyrhyncha),standard
+Parkside Aquarium,Kenyi Cichlid,19.56,19/11/2010,none,(Metriaclima lombardoi),standard
+Harris' Pets and More,Green Cobra Guppy,5.97,14/11/2010,none,(Poecilia reticulata),standard
+Anything Except Badgers,Turquoise Danio,12.75,06/06/2010,none,(Brachydanio kerri),standard
+Morris Pets and Supplies,Black Moor Goldfish,16.67,15/10/2010,none,(Carassius auratus),standard
+The Menagerie,Rio-Negro Pleco,23.53,10/02/2010,none,(Peckoltia sp. platyrhyncha),standard
+Jill's Pet Store,Harlequin Rasbora,12.40,14/12/2010,none,(Rasbora heteromorpha),standard
+Paddington Aquatics,Boesemani Rainbow,20.28,09/07/2010,none,(Melanotaenia boesemani),standard
+Aquatic Acrobatics,Green Cobra Guppy,13.14,04/10/2010,none,(Poecilia reticulata),standard
+Obsborne Road Pet Store,Otocinclus Catfish,10.04,20/02/2010,none,(Otocinclus sp.),standard
+Daffyd's Pet Shop,Pearl Gourami,22.38,30/10/2010,none,(Trichogaster leeri),standard
+Aquatic Acrobatics,Pink Convict Cichlid,18.37,13/06/2010,none,(Archocentrus nigrofasciatus),standard
+The Menagerie,Sparkling Gourami,21.02,08/12/2010,none,(Trichopsis pumilus),standard
+The Briar Patch Pet Store,Albino Peacock Cichlid,11.33,02/12/2010,none,(Aulonocara sp.),standard
+Meadow Aquatics,Blue Johanni Cichlid,10.58,20/05/2010,none,(Melanochromis cyaneorhabdos),standard
+Daffyd's Pet Shop,Kenyi Cichlid,5.67,18/07/2010,none,(Metriaclima lombardoi),standard
+The Briar Patch Pet Store,Assorted Mickey Mouse Platys,19.11,22/10/2010,none,(Xiphophorus maculatus),standard
+Paddington Aquatics,Crown Tail Betta,7.77,20/11/2010,none,(Betta splendens),standard
+Galley Pets,Emerald Green Cory Cat,9.80,18/10/2010,none,(Brochis splendens),standard
+Obsborne Road Pet Store,Blue Johanni Cichlid,19.43,03/07/2010,none,(Melanochromis cyaneorhabdos),standard
+Preston Pets,Rio-Negro Pleco,12.06,18/09/2010,none,(Peckoltia sp. platyrhyncha),standard
+Morris Pets and Supplies,Emerald Green Cory Cat,24.07,18/10/2010,none,(Brochis splendens),standard
+Obsborne Road Pet Store,Siamese Fighting Fish,13.26,09/06/2010,none,(Betta splendens),standard
+Sannox Pets,Albino Aeneus Cory Cat,11.37,13/06/2010,none,(Corydoras aeneus),standard
+Paddington Aquatics,Green Tiger Barb,11.39,11/03/2010,none,(Puntius tetrazona),standard
+Parkside Aquarium,Sparkling Gourami,22.09,30/01/2010,none,(Trichopsis pumilus),standard
+Byker Pets Shop,Albino Aeneus Cory Cat,6.01,09/03/2010,none,(Corydoras aeneus),standard
+Pets on the Tyne,Assorted Apistogramma,6.66,08/11/2010,none,(Apistogramma sp.),standard
+Pets on the Tyne,Golden White Cloud,8.42,28/09/2010,none,(Tanichthys albonubes),standard
+Harris' Pets and More,Blue Johanni Cichlid,24.15,04/02/2010,none,(Melanochromis cyaneorhabdos),standard
+Galley Pets,Blue Paradise,15.80,16/08/2010,none,(Macropodus opercularis),standard
+Potters Pets,Tiger Pleco,14.29,01/01/2010,none,(Peckoltia vermiculata),standard
+The Briar Patch Pet Store,Boesemani Rainbow,6.19,12/07/2010,none,(Melanotaenia boesemani),standard
+Morris Pets and Supplies,Peppered Cory Cat,10.69,27/09/2010,none,(Corydoras paleatus),standard
+Petsmart,Assorted Veil Angel,11.61,02/07/2010,none,(Pterophyllum scalare),standard
+Anything Except Badgers,Green Cobra Guppy,15.36,24/12/2010,none,(Poecilia reticulata),standard
+Parkside Aquarium,Rio-Negro Pleco,20.51,14/12/2010,none,(Peckoltia sp. platyrhyncha),standard
+Morris Pets and Supplies,Assorted Veil Angel,22.62,24/01/2010,none,(Pterophyllum scalare),standard
+Paddington Aquatics,Cherry Barb,13.43,17/03/2010,none,(Puntius titteya),standard
+Petsmart,Boesemani Rainbow,20.28,17/11/2010,none,(Melanotaenia boesemani),standard
+Harris' Pets and More,Sparkling Gourami,15.96,01/12/2010,none,(Trichopsis pumilus),standard
+Paddington Aquatics,Emerald Green Cory Cat,21.59,09/03/2010,none,(Brochis splendens),standard
+Sannox Pets,Long Fin White Cloud,17.89,14/12/2010,none,(Tanichthys albonubes),standard
+Solly's Pet Store,Starry Night Pleco,13.83,21/08/2010,none,(Ancistris sp).),standard
+Morris Pets and Supplies,Red Cap Oranda Goldfish,9.55,20/08/2010,none,(Carassius auratus),standard
+The Menagerie,Blue Johanni Cichlid,22.27,13/09/2010,none,(Melanochromis cyaneorhabdos),standard
+Solly's Pet Store,Rio-Negro Pleco,19.58,20/08/2010,none,(Peckoltia sp. platyrhyncha),standard
+Paddington Aquatics,Turquoise Danio,12.57,26/03/2010,none,(Brachydanio kerri),standard
+Anything Except Badgers,Assorted Platy,10.30,10/02/2010,none,(Xiphophorus maculatus),standard
+Aquatic Acrobatics,Black Moor Goldfish,13.35,14/08/2010,none,(Carassius auratus),standard
+Preston Pets,Electric Blue Cichlid,23.11,02/11/2010,none,(Sciaenochromis fryeri),standard
+Morris Pets and Supplies,Albino Aeneus Cory Cat,16.67,28/04/2010,none,(Corydoras aeneus),standard
+Sannox Pets,Blue Paradise,24.41,20/09/2010,none,(Macropodus opercularis),standard
+Preston Pets,Blue Johanni Cichlid,17.24,20/09/2010,none,(Melanochromis cyaneorhabdos),standard
+Anything Except Badgers,Blue Paradise,18.73,16/09/2010,none,(Macropodus opercularis),standard
+Sannox Pets,Assorted Apistogramma,21.88,05/01/2010,none,(Apistogramma sp.),standard
+Sannox Pets,Emerald Green Cory Cat,17.29,27/11/2010,none,(Brochis splendens),standard
+Morris Pets and Supplies,Sparkling Gourami,8.50,10/06/2010,none,(Trichopsis pumilus),standard
+Gateshead Pets,Harlequin Rasbora,15.49,13/04/2010,none,(Rasbora heteromorpha),standard
+Gateshead Pets,Assorted Swordtail,19.60,27/06/2010,none,(Xiphophorus helleri),standard
+Doe Bank Fish and Aquarium Supplies,Siamese Fighting Fish,6.11,04/09/2010,none,(Betta splendens),standard
+Doe Bank Fish and Aquarium Supplies,Black Moor Goldfish,11.26,30/03/2010,none,(Carassius auratus),standard
+Harris' Pets and More,Pink Convict Cichlid,18.09,23/03/2010,none,(Archocentrus nigrofasciatus),standard
+Preston Pets,Albino Aeneus Cory Cat,20.82,06/05/2010,none,(Corydoras aeneus),standard
+The Briar Patch Pet Store,Sparkling Gourami,19.98,01/06/2010,none,(Trichopsis pumilus),carnivorous
+Gateshead Pets,Turquoise Danio,19.82,23/05/2010,none,(Brachydanio kerri),standard
+Gateshead Pets,Green Tiger Barb,17.40,14/04/2010,none,(Puntius tetrazona),standard
+Anything Except Badgers,Red Cap Oranda Goldfish,5.45,05/08/2010,none,(Carassius auratus),standard
+Byker Pets Shop,Harlequin Rasbora,7.10,30/04/2010,none,(Rasbora heteromorpha),standard
+Paddington Aquatics,Harlequin Rasbora,16.87,01/06/2010,none,(Rasbora heteromorpha),standard
+Petsmart,Assorted Platy,17.49,15/12/2010,none,(Xiphophorus maculatus),standard
+Meadow Aquatics,Assorted Platy,12.30,14/06/2010,none,(Xiphophorus maculatus),standard
+Meadow Aquatics,Albino Aeneus Cory Cat,21.04,13/05/2010,none,(Corydoras aeneus),standard
+Anything Except Badgers,Siamese Fighting Fish,18.77,23/01/2010,none,(Betta splendens),standard
+Meltham Pets,Long Fin White Cloud,20.40,09/11/2010,none,(Tanichthys albonubes),standard
+Byker Pets Shop,Assorted Platy,20.83,30/04/2010,none,(Xiphophorus maculatus),standard
+Harris' Pets and More,Assorted Veil Angel,13.46,22/01/2010,none,(Pterophyllum scalare),standard
+Solly's Pet Store,Green Tiger Barb,24.94,30/05/2010,none,(Puntius tetrazona),standard
+Pets on the Tyne,Emerald Green Cory Cat,15.24,30/08/2010,none,(Brochis splendens),standard
+Paddington Aquatics,Assorted Apistogramma,8.18,17/04/2010,none,(Apistogramma sp.),standard
+Preston Pets,Long Fin White Cloud,14.25,15/03/2010,none,(Tanichthys albonubes),standard
+Potters Pets,Pearl Gourami,6.56,23/07/2010,none,(Trichogaster leeri),standard
+Meltham Pets,Pink Convict Cichlid,19.20,30/09/2010,none,(Archocentrus nigrofasciatus),standard
+Galley Pets,Green Cobra Guppy,17.09,30/12/2010,none,(Poecilia reticulata),standard
+Daffyd's Pet Shop,Harlequin Rasbora,21.31,05/10/2010,none,(Rasbora heteromorpha),standard
+The Menagerie,Emerald Green Cory Cat,18.15,20/09/2010,none,(Brochis splendens),standard
+Doe Bank Fish and Aquarium Supplies,Cherry Barb,10.86,28/02/2010,none,(Puntius titteya),standard
+Paddington Aquatics,Long Fin White Cloud,6.85,02/01/2010,none,(Tanichthys albonubes),standard
+Pets on the Tyne,Assorted Swordtail,24.90,21/09/2010,none,(Xiphophorus helleri),standard
+Morris Pets and Supplies,Blue Paradise,22.63,22/07/2010,none,(Macropodus opercularis),standard
+Obsborne Road Pet Store,Peppered Cory Cat,22.41,05/06/2010,none,(Corydoras paleatus),standard
+Anything Except Badgers,Kenyi Cichlid,17.10,26/02/2010,none,(Metriaclima lombardoi),standard
+Gateshead Pets,Sparkling Gourami,5.27,05/06/2010,none,(Trichopsis pumilus),standard
+Doe Bank Fish and Aquarium Supplies,Emerald Green Cory Cat,7.76,13/12/2010,none,(Brochis splendens),standard
+Petsmart,Siamese Fighting Fish,10.44,24/03/2010,none,(Betta splendens),standard
+Meadow Aquatics,Siamese Fighting Fish,14.41,12/09/2010,none,(Betta splendens),standard
+Harris' Pets and More,Starry Night Pleco,19.16,08/06/2010,none,(Ancistris sp).),standard
+Sannox Pets,Assorted Veil Angel,11.06,09/02/2010,none,(Pterophyllum scalare),standard
+Aquatic Acrobatics,Assorted Mickey Mouse Platys,7.37,21/09/2010,none,(Xiphophorus maculatus),standard
+Gateshead Pets,Tiger Barb,5.75,25/06/2010,none,(Puntius tetrazona),standard
+Daffyd's Pet Shop,Tiger Pleco,20.85,24/08/2010,none,(Peckoltia vermiculata),standard
+Pets on the Tyne,Pink Convict Cichlid,12.04,22/07/2010,none,(Archocentrus nigrofasciatus),standard
+Anything Except Badgers,Cherry Barb,10.14,08/12/2010,none,(Puntius titteya),standard
+Clevedon Pets,Red Cap Oranda Goldfish,5.30,11/01/2010,none,(Carassius auratus),standard
+Meadow Aquatics,Assorted Swordtail,24.08,27/09/2010,none,(Xiphophorus helleri),standard
+Paddington Aquatics,Assorted Veil Angel,5.53,30/01/2010,none,(Pterophyllum scalare),standard
+Morris Pets and Supplies,Starry Night Pleco,7.32,05/04/2010,none,(Ancistris sp).),standard
+Galley Pets,Peppered Cory Cat,21.84,05/06/2010,none,(Corydoras paleatus),standard
+Parkside Aquarium,Assorted Platy,18.18,07/04/2010,none,(Xiphophorus maculatus),standard
+Clevedon Pets,Assorted Veil Angel,20.99,27/10/2010,none,(Pterophyllum scalare),standard
+Meltham Pets,Green Tiger Barb,18.94,18/03/2010,none,(Puntius tetrazona),standard
+Doe Bank Fish and Aquarium Supplies,Crown Tail Betta,13.82,06/09/2010,none,(Betta splendens),standard
+Jill's Pet Store,Long Fin White Cloud,10.43,14/01/2010,none,(Tanichthys albonubes),standard
+Meadow Aquatics,Boesemani Rainbow,21.13,26/01/2010,none,(Melanotaenia boesemani),standard
+Harris' Pets and More,Harlequin Rasbora,15.95,28/11/2010,none,(Rasbora heteromorpha),standard
+Obsborne Road Pet Store,Pearl Gourami,14.88,16/11/2010,none,(Trichogaster leeri),standard
+Gateshead Pets,Assorted Mickey Mouse Platys,22.38,10/12/2010,none,(Xiphophorus maculatus),standard
+Pets on the Tyne,Blue Johanni Cichlid,23.25,29/06/2010,none,(Melanochromis cyaneorhabdos),standard
+Solly's Pet Store,Kenyi Cichlid,7.70,15/10/2010,none,(Metriaclima lombardoi),standard
+Harris' Pets and More,Emerald Green Cory Cat,18.17,12/02/2010,none,(Brochis splendens),standard
+Byker Pets Shop,Crown Tail Betta,23.06,04/02/2010,none,(Betta splendens),standard
+The Menagerie,Assorted Apistogramma,23.05,20/02/2010,none,(Apistogramma sp.),standard
+Paddington Aquatics,Assorted Platy,16.46,30/08/2010,none,(Xiphophorus maculatus),standard
+Parkside Aquarium,Emerald Green Cory Cat,24.12,02/11/2010,none,(Brochis splendens),standard
+Galley Pets,Electric Blue Cichlid,7.49,17/10/2010,none,(Sciaenochromis fryeri),standard
+Clevedon Pets,Blue Paradise,19.00,25/02/2010,none,(Macropodus opercularis),standard
+Harris' Pets and More,Assorted Apistogramma,6.43,01/02/2010,none,(Apistogramma sp.),standard
+Harris' Pets and More,Blue Paradise,22.61,21/10/2010,none,(Macropodus opercularis),standard
+Anything Except Badgers,Electric Yellow Cichlid,5.19,04/11/2010,none,(Labidochromis caeruleus),standard
+The Menagerie,Electric Yellow Cichlid,9.59,02/06/2010,none,(Labidochromis caeruleus),standard
+Pets on the Tyne,Rio-Negro Pleco,15.01,07/01/2010,none,(Peckoltia sp. platyrhyncha),standard
+Galley Pets,Black Moor Goldfish,20.59,11/02/2010,none,(Carassius auratus),standard
+The Menagerie,Neon Tetra Jumbo,14.56,03/07/2010,none,(Paracheirodon innesi),standard
+Anything Except Badgers,Pink Convict Cichlid,10.41,26/10/2010,none,(Archocentrus nigrofasciatus),standard
+Doe Bank Fish and Aquarium Supplies,Tiger Pleco,12.66,19/09/2010,none,(Peckoltia vermiculata),standard
+Morris Pets and Supplies,Assorted Mickey Mouse Platys,22.82,14/04/2010,none,(Xiphophorus maculatus),standard
+Morris Pets and Supplies,Cherry Barb,12.37,30/10/2010,none,(Puntius titteya),standard
+Clevedon Pets,Black Moor Goldfish,17.60,16/12/2010,none,(Carassius auratus),standard
+Sannox Pets,Kenyi Cichlid,7.38,02/10/2010,none,(Metriaclima lombardoi),standard
+Solly's Pet Store,Emerald Green Cory Cat,10.81,08/10/2010,none,(Brochis splendens),standard
+Obsborne Road Pet Store,Crown Tail Betta,14.91,23/09/2010,none,(Betta splendens),standard
+Potters Pets,Assorted Swordtail,17.17,08/11/2010,none,(Xiphophorus helleri),standard
+Clevedon Pets,Tiger Barb,19.93,21/01/2010,none,(Puntius tetrazona),standard
+Gateshead Pets,Emerald Green Cory Cat,6.75,07/08/2010,none,(Brochis splendens),standard
+Aquatic Acrobatics,Blue Paradise,8.42,29/12/2010,none,(Macropodus opercularis),standard
+Meltham Pets,Electric Yellow Cichlid,18.31,26/10/2010,none,(Labidochromis caeruleus),standard
+Aquatic Acrobatics,Assorted Swordtail,15.54,11/08/2010,none,(Xiphophorus helleri),standard
+Anything Except Badgers,Pearl Gourami,7.31,24/09/2010,none,(Trichogaster leeri),standard
+Potters Pets,Albino Peacock Cichlid,15.97,12/09/2010,none,(Aulonocara sp.),standard
+Meltham Pets,Siamese Fighting Fish,16.09,24/06/2010,none,(Betta splendens),standard
+Paddington Aquatics,Golden White Cloud,24.78,19/06/2010,none,(Tanichthys albonubes),standard
+Pets on the Tyne,Siamese Fighting Fish,9.61,28/10/2010,none,(Betta splendens),standard
+Morris Pets and Supplies,Siamese Fighting Fish,12.12,24/10/2010,none,(Betta splendens),standard
+Meltham Pets,Cherry Barb,10.89,18/05/2010,none,(Puntius titteya),standard
+Galley Pets,Assorted Veil Angel,16.72,11/04/2010,none,(Pterophyllum scalare),standard
+The Briar Patch Pet Store,Crown Tail Betta,6.80,06/11/2010,none,(Betta splendens),standard
+The Briar Patch Pet Store,Tiger Barb,12.33,09/12/2010,none,(Puntius tetrazona),standard
+Obsborne Road Pet Store,Electric Yellow Cichlid,13.61,18/09/2010,none,(Labidochromis caeruleus),standard
+Daffyd's Pet Shop,Blue Paradise,12.46,21/01/2010,none,(Macropodus opercularis),standard
+Solly's Pet Store,Blue Paradise,5.19,04/02/2010,none,(Macropodus opercularis),standard
+Gateshead Pets,Electric Yellow Cichlid,5.13,14/12/2010,none,(Labidochromis caeruleus),standard
+Parkside Aquarium,Siamese Fighting Fish,21.02,05/09/2010,none,(Betta splendens),standard
+The Menagerie,Green Tiger Barb,19.40,03/06/2010,none,(Puntius tetrazona),standard
+Gateshead Pets,Assorted Platy,22.33,25/11/2010,none,(Xiphophorus maculatus),standard
+The Menagerie,Cherry Barb,13.65,17/10/2010,toxic to human touch,(Puntius titteya),standard
+The Briar Patch Pet Store,Lemon Cobra Guppy,22.66,29/05/2010,none,(Poecilia reticulata),standard
+Doe Bank Fish and Aquarium Supplies,Electric Yellow Cichlid,7.96,27/04/2010,none,(Labidochromis caeruleus),standard
+Jill's Pet Store,Albino Aeneus Cory Cat,15.13,01/02/2010,none,(Corydoras aeneus),standard
+Aquatic Acrobatics,Assorted Veil Angel,8.80,21/06/2010,none,(Pterophyllum scalare),standard
+Potters Pets,Siamese Fighting Fish,19.27,22/05/2010,none,(Betta splendens),standard
+Preston Pets,Cherry Barb,11.58,02/04/2010,none,(Puntius titteya),standard
+Sannox Pets,Boesemani Rainbow,12.67,10/02/2010,none,(Melanotaenia boesemani),standard
+Preston Pets,Tiger Pleco,15.38,15/02/2010,none,(Peckoltia vermiculata),standard
+Parkside Aquarium,Crown Tail Betta,20.39,06/08/2010,none,(Betta splendens),standard
+Morris Pets and Supplies,Assorted Apistogramma,7.12,14/09/2010,none,(Apistogramma sp.),standard
+Sannox Pets,Green Tiger Barb,20.17,20/01/2010,none,(Puntius tetrazona),standard
+Jill's Pet Store,Siamese Fighting Fish,6.42,18/08/2010,none,(Betta splendens),standard
+Jill's Pet Store,Red Cap Oranda Goldfish,12.26,06/05/2010,none,(Carassius auratus),standard
+Aquatic Acrobatics,Crown Tail Betta,5.18,19/06/2010,none,(Betta splendens),standard
+The Briar Patch Pet Store,Pearl Gourami,20.93,15/02/2010,none,(Trichogaster leeri),standard
+Meadow Aquatics,Starry Night Pleco,15.83,28/05/2010,none,(Ancistris sp).),standard
+Jill's Pet Store,Kenyi Cichlid,24.05,14/06/2010,none,(Metriaclima lombardoi),standard
+Gateshead Pets,Pink Convict Cichlid,6.61,17/12/2010,none,(Archocentrus nigrofasciatus),standard
+Meltham Pets,Assorted Apistogramma,14.06,16/07/2010,none,(Apistogramma sp.),standard
+Galley Pets,Otocinclus Catfish,16.80,11/03/2010,none,(Otocinclus sp.),standard
+The Briar Patch Pet Store,Turquoise Danio,23.94,01/08/2010,none,(Brachydanio kerri),standard
+Doe Bank Fish and Aquarium Supplies,Kenyi Cichlid,15.26,19/10/2010,none,(Metriaclima lombardoi),standard
+Daffyd's Pet Shop,Crown Tail Betta,13.01,31/01/2010,none,(Betta splendens),standard
+Meadow Aquatics,Green Tiger Barb,24.16,31/10/2010,none,(Puntius tetrazona),standard
+Meltham Pets,Blue Johanni Cichlid,23.38,01/06/2010,none,(Melanochromis cyaneorhabdos),standard
+Clevedon Pets,Albino Aeneus Cory Cat,19.15,31/12/2010,none,(Corydoras aeneus),standard
+Jill's Pet Store,Assorted Veil Angel,8.47,06/08/2010,none,(Pterophyllum scalare),standard
+Jill's Pet Store,Golden White Cloud,14.06,09/09/2010,none,(Tanichthys albonubes),standard
+Solly's Pet Store,Pink Convict Cichlid,5.74,25/11/2010,none,(Archocentrus nigrofasciatus),standard
+Aquatic Acrobatics,Golden White Cloud,7.06,19/03/2010,none,(Tanichthys albonubes),standard
+Parkside Aquarium,Pink Convict Cichlid,18.16,08/03/2010,none,(Archocentrus nigrofasciatus),standard
+The Menagerie,Otocinclus Catfish,8.01,24/12/2010,none,(Otocinclus sp.),standard
+Parkside Aquarium,Pearl Gourami,10.81,02/05/2010,none,(Trichogaster leeri),standard
+Potters Pets,Long Fin White Cloud,7.00,23/12/2010,none,(Tanichthys albonubes),standard
+Harris' Pets and More,Kenyi Cichlid,5.44,06/05/2010,none,(Metriaclima lombardoi),standard
+Daffyd's Pet Shop,Blue Johanni Cichlid,13.42,01/11/2010,none,(Melanochromis cyaneorhabdos),standard
+Jill's Pet Store,Assorted Apistogramma,15.08,12/05/2010,none,(Apistogramma sp.),standard
+The Briar Patch Pet Store,Blue Johanni Cichlid,19.35,01/07/2010,none,(Melanochromis cyaneorhabdos),standard
+Meltham Pets,Albino Peacock Cichlid,17.84,28/09/2010,none,(Aulonocara sp.),standard
+Solly's Pet Store,Blue Johanni Cichlid,6.16,11/04/2010,none,(Melanochromis cyaneorhabdos),standard
+Gateshead Pets,Lemon Cobra Guppy,19.49,23/04/2010,none,(Poecilia reticulata),standard
+Petsmart,Starry Night Pleco,21.87,13/02/2010,none,(Ancistris sp).),standard
+Potters Pets,Black Moor Goldfish,10.52,18/11/2010,none,(Carassius auratus),standard
+The Menagerie,Assorted Veil Angel,15.06,31/07/2010,none,(Pterophyllum scalare),standard
+Preston Pets,Tiger Barb,18.11,20/09/2010,none,(Puntius tetrazona),standard
+Obsborne Road Pet Store,Emerald Green Cory Cat,15.66,30/07/2010,none,(Brochis splendens),standard
+Solly's Pet Store,Black Moor Goldfish,7.64,09/09/2010,none,(Carassius auratus),standard
+Meadow Aquatics,Rio-Negro Pleco,21.62,16/02/2010,none,(Peckoltia sp. platyrhyncha),standard
+Anything Except Badgers,Long Fin White Cloud,8.97,30/12/2010,none,(Tanichthys albonubes),standard
+Daffyd's Pet Shop,Peppered Cory Cat,17.65,05/12/2010,none,(Corydoras paleatus),standard
+Byker Pets Shop,Long Fin White Cloud,24.47,25/11/2010,none,(Tanichthys albonubes),standard
+Anything Except Badgers,Harlequin Rasbora,8.53,03/07/2010,none,(Rasbora heteromorpha),standard
+The Briar Patch Pet Store,Red Cap Oranda Goldfish,5.24,08/10/2010,none,(Carassius auratus),carnivorous
+Meadow Aquatics,Albino Peacock Cichlid,22.95,23/07/2010,none,(Aulonocara sp.),standard
+The Menagerie,Assorted Swordtail,18.70,06/03/2010,none,(Xiphophorus helleri),standard

@@ -1,0 +1,11 @@
+
+User Story (what do we need to achieve)
+
+As a [type of user] I want [to be able to do….something ] , so that [I can achieve a benefit from doing that something]
+ 
+
+Elaborate (aka Conversation – what do we need to do to achieve it?)
+
+
+Acceptance Criteria (aka Confirmation – how do we know it has been achieved  [fit for purpose]?)
+
